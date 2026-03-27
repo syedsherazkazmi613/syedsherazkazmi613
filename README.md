@@ -150,7 +150,7 @@ But what if the journey is the destination?
 
 ```
 Email    : Sherazkazmi612@gmail.com
-LinkedIn : <a href="www.linkedin.com/in/syed-sheraz-kazmi-868a022b9">Syed Sheraz Kazmi</a>
+LinkedIn : www.linkedin.com/in/syed-sheraz-kazmi-868a022b9
 
 ```
 
