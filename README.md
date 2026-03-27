@@ -107,15 +107,7 @@ Consistency           ████████████
   <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge" />
 </p>
 
----
 
-## 🧠 TRYHACKME
-
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_THM_USERNAME.png" />
-</p>
-
----
 
 ## 📊 GITHUB STATS
 
