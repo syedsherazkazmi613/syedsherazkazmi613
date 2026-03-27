@@ -149,8 +149,9 @@ But what if the journey is the destination?
 ## 📡 CONNECT
 
 ```
-Email    : your-email@example.com
-LinkedIn : your-linkedin
+Email    : Sherazkazmi612@gmail.com
+LinkedIn : <a href="www.linkedin.com/in/syed-sheraz-kazmi-868a022b9">Syed Sheraz Kazmi</a>
+
 ```
 
 ---
