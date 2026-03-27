@@ -1,23 +1,9 @@
-🛡️ <b style="color: #607d8b;">K4ZM1</b> | Syed Sheraz Kazmi<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=607D8B&center=true&vCenter=true&lines=Ethical+Hacker;Security+Researcher;Vulnerability+Assessment;Bug+Bounty+Hunter" /></p><p align="center"><img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80" width="750" style="border-radius: 10px;" /></p>⚖️ THE ETHICAL DIRECTIVEBash→ Analyze the infrastructure
-→ Identify the vulnerabilities
-→ Remediate with integrity
-→ Secure the digital frontier
-Plaintext┌─────────────────────────────────────────────────────────┐
-│  $ whoami                                               │
-│  → Sheraz Kazmi | Security Researcher | Pakistan        │
-│                                                         │
-│  $ cat objective.txt                                    │
-│  → Strengthening digital defenses through proactive      │
-│    vulnerability research and ethical disclosure.       │
-│                                                         │
-│  $ cat certifications.txt                               │
-│  → eJPT (In Progress) | CompTIA Security+ (Learning)    │
-│                                                         │
-│  $ cat philosophy.txt                                   │
-│  → Security is not a product, but a process.            │
-└─────────────────────────────────────────────────────────┘
-📂 LABORATORYvulnerability-research/ - Documented CVEs and PoCs.security-tooling/ - Custom Python/Go scripts for automation.writeups/ - Detailed analysis of retired CTF machines.🛡️ TECHNICAL STACKCategoryTools & TechnologiesReconnaissanceNmap, Subfinder, Amass, ShodanWeb SecurityBurp Suite Professional, OWASP ZAP, FFUFAutomationPython, Bash, Nuclei TemplatesPlatformsKali Linux, Parrot OS, Docker📊 OPERATIONAL METRICSPlaintextVulnerability Assessment  ███████████░ 92%
-Network Penetration       ██████████░░ 85%
-Automated Recon           █████████░░░ 78%
-Secure Code Review        ████████░░░░ 70%
-📈 GITHUB ACTIVITY<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SherazKazmi&show_icons=true&theme=graywhite" /><img src="https://streak-stats.demolab.com?user=SherazKazmi&theme=graywhite" /></p>🧠 CURRENT FOCUS🛡️ Hardening web applications against OWASP Top 10.🧪 Building automated reconnaissance pipelines.✍️ Writing professional-grade penetration testing reports.☁️ Cloud Security (AWS/Azure fundamentals).📡 SECURE CONNECTIONEmail: Sherazkazmi612@gmail.comLinkedIn: Syed Sheraz Kazmi"Integrity is the difference between a criminal and a consultant." 🛡️
+🛡️ <b style="color: #607d8b;">K4ZM1</b> | Syed Sheraz Kazmi<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=607D8B&center=true&vCenter=true&width=435&lines=Security+Researcher;Penetration+Tester;Bug+Bounty+Hunter;Vulnerability+Analyst" alt="Typing SVG" /></p><p align="center"><img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80" width="800" style="border-radius: 15px;" /></p>⚖️ THE ETHICAL MISSION"True security is not the absence of vulnerabilities, but the presence of the integrity to fix them."Bash→ Identify: Find the gaps before the adversaries do.
+→ Analyze: Understand the root cause and business impact.
+→ Remediate: Provide actionable intelligence to developers.
+→ Secure: Build a more resilient digital ecosystem.
+📂 LABORATORY DIRECTORYvulnerability-research/ – Detailed security advisories and PoCs.security-scripts/ – Custom Python and Bash automation for Recon.ctf-writeups/ – Professional walkthroughs of HTB/THM machines.🛡️ TECHNICAL STACK & TOOLKITCategoryTools & TechnologiesWeb SecurityBurp Suite Professional, OWASP ZAP, FFUF, SQLMapReconnaissanceNmap, Subfinder, Assetfinder, Shodan, AmassVulnerability ScanningNuclei, Nessus, NiktoDevelopmentPython, Bash, JavaScript, GoOperating SystemsKali Linux, Parrot Security, Ubuntu Server📊 OPERATIONAL METRICSPlaintextVulnerability Assessment  ████████████░ 95%
+Web Penetration Testing   ███████████░░ 88%
+Network Security          █████████░░░░ 75%
+Reporting & Documentation █████████████ 100%
+📈 REPUTATION & STATS<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SherazKazmi&show_icons=true&theme=graywhite&hide_border=true" /><img src="https://streak-stats.demolab.com?user=SherazKazmi&theme=graywhite&hide_border=true" /></p>🧠 CURRENT OBJECTIVES🎓 Preparing for eJPT / OSCP certifications.🔍 Contributing to Open Source Security tools.✍️ Mentoring aspiring security researchers in Pakistan.🧪 Deep-diving into API Security and Cloud Infrastructure.📡 SECURE COMMUNICATIONEmail: Sherazkazmi612@gmail.comLinkedIn: Syed Sheraz KazmiTryHackMe: K4ZM1 Profile"Ethics is knowing the difference between what you have a right to do and what is right to do." 🛡️
