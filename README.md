@@ -1,9 +1,82 @@
-🛡️ <b style="color: #607d8b;">K4ZM1</b> | Syed Sheraz Kazmi<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=607D8B&center=true&vCenter=true&width=435&lines=Security+Researcher;Penetration+Tester;Bug+Bounty+Hunter;Vulnerability+Analyst" alt="Typing SVG" /></p><p align="center"><img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80" width="800" style="border-radius: 15px;" /></p>⚖️ THE ETHICAL MISSION"True security is not the absence of vulnerabilities, but the presence of the integrity to fix them."Bash→ Identify: Find the gaps before the adversaries do.
-→ Analyze: Understand the root cause and business impact.
-→ Remediate: Provide actionable intelligence to developers.
-→ Secure: Build a more resilient digital ecosystem.
-📂 LABORATORY DIRECTORYvulnerability-research/ – Detailed security advisories and PoCs.security-scripts/ – Custom Python and Bash automation for Recon.ctf-writeups/ – Professional walkthroughs of HTB/THM machines.🛡️ TECHNICAL STACK & TOOLKITCategoryTools & TechnologiesWeb SecurityBurp Suite Professional, OWASP ZAP, FFUF, SQLMapReconnaissanceNmap, Subfinder, Assetfinder, Shodan, AmassVulnerability ScanningNuclei, Nessus, NiktoDevelopmentPython, Bash, JavaScript, GoOperating SystemsKali Linux, Parrot Security, Ubuntu Server📊 OPERATIONAL METRICSPlaintextVulnerability Assessment  ████████████░ 95%
-Web Penetration Testing   ███████████░░ 88%
-Network Security          █████████░░░░ 75%
-Reporting & Documentation █████████████ 100%
-📈 REPUTATION & STATS<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SherazKazmi&show_icons=true&theme=graywhite&hide_border=true" /><img src="https://streak-stats.demolab.com?user=SherazKazmi&theme=graywhite&hide_border=true" /></p>🧠 CURRENT OBJECTIVES🎓 Preparing for eJPT / OSCP certifications.🔍 Contributing to Open Source Security tools.✍️ Mentoring aspiring security researchers in Pakistan.🧪 Deep-diving into API Security and Cloud Infrastructure.📡 SECURE COMMUNICATIONEmail: Sherazkazmi612@gmail.comLinkedIn: Syed Sheraz KazmiTryHackMe: K4ZM1 Profile"Ethics is knowing the difference between what you have a right to do and what is right to do." 🛡️
+# 🎧 _K4ZM1_ | Syed Sheraz Kazmi
+
+<p align="center">
+  <!-- Typing Effect -->
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Ethical+Hacker+In+Progress;Web+Security+%7C+Bug+Bounty;Security+Researcher;Trust+Ethics+First" />
+</p>
+
+<p align="center">
+  <!-- Matrix / Hacker Vibe -->
+  <img src="https://c4.wallpaperflare.com/wallpaper/149/596/863/mr-robot-elliot-mr-robot-tv-fsociety-wallpaper-preview.jpg" width="750" />
+</p>
+
+---
+
+## 🛡️ ETHICAL HACKING DIRECTIVE
+
+
+→ Discover vulnerabilities responsibly
+→ Report and secure systems
+→ Learn continuously
+→ Share knowledge with the community
+
+
+---
+
+```bash
+┌─────────────────────────────────────────────────────────┐
+│   $ whoami                                              │
+│   → Sheraz Kazmi | Ethical Hacker | Pakistan            │
+│                                                         │
+│   $ cat role.txt                                        │
+│   → White / Gray Hat Hacker                             │
+│                                                         │
+│   $ cat focus.txt                                       │
+│   → Web Security | Bug Bounty | Pentesting              │
+│                                                         │
+│   $ cat creed.txt                                       │
+│   → Hack ethically, report responsibly.                │
+└─────────────────────────────────────────────────────────┘
+drwxr-xr-x  reconnaissance/
+drwxr-xr-x  web-exploitation/
+drwxr-xr-x  tools/
+-rwxr-xr-x  ethical_hacker.exe
+#!/usr/bin/env python3
+
+class EthicalHacker:
+
+    def __init__(self):
+        self.name = "Sheraz Kazmi"
+        self.role = "Security Researcher"
+        self.focus = ["Web Exploitation", "Recon", "Bug Bounty"]
+        self.tools = ["Nmap", "Nuclei", "Burp Suite"]
+        self.mindset = "Find, report, and secure vulnerabilities responsibly."
+
+    def mission(self):
+        while True:
+            self.enumerate()
+            self.scan()
+            self.exploit()
+            self.report()
+            break
+⚡ OPERATION STATUS
+Web Pentesting        ███████████░
+Recon & Scanning      ██████████░░
+Bug Bounty Hunting    █████████░░░
+Consistency           ████████████
+🛠️ TOOLS
+<p align="left">   <img src="https://img.shields.io/badge/Nmap-blue?style=for-the-badge" />   <img src="https://img.shields.io/badge/Nuclei-red?style=for-the-badge" />   <img src="https://img.shields.io/badge/BurpSuite-orange?style=for-the-badge" />   <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge" /> </p>
+🧠 TRYHACKME
+<p align="center">   <img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_THM_USERNAME.png" /> </p>
+📊 GITHUB STATS
+<p align="center">   <img src="https://github-readme-stats.vercel.app/api?username=SherazKazmi&show_icons=true&theme=dark" />   <br/>   <img src="https://streak-stats.demolab.com?user=SherazKazmi&theme=dark" /> </p>
+💻 CURRENT MISSIONS
+🔍 Web Vulnerability Scanning
+🧪 DVWA / WebGoat / Juice Shop Labs
+📊 Writing Security Reports
+⚙️ Learning Automation (Python)
+📡 CONNECT
+Email    : Sherazkazmi612@gmail.com
+LinkedIn : www.linkedin.com/in/syed-sheraz-kazmi-868a022b9
+
+“Hack ethically. Report responsibly. Contribute to a safer digital world.” 🌐
