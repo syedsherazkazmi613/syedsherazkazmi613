@@ -1,4 +1,4 @@
-# 🎧 <b colour:red>_K4ZM1_</b> | Syed Sheraz Kazmi
+# 🎧 <b style="color: blue;">_K4ZM1_</b> | Syed Sheraz Kazmi
 
 <p align="center">
   <!-- Typing Effect -->
