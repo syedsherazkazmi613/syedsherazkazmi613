@@ -1,5 +1,15 @@
 # 🎧 𝗛𝗮𝗰𝗸𝗿 | Syed Sheraz Kazmi
 
+<p align="center">
+  <!-- Typing Effect -->
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Penetration+Tester+In+Progress;Web+Security+%7C+Bug+Bounty;Think+Like+Attacker+%7C+Act+Like+Defender" />
+</p>
+
+<p align="center">
+  <!-- Matrix Animation -->
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="700" />
+</p>
+
 *“Break. Learn. Secure. Repeat.”*
 
 ---
@@ -72,12 +82,33 @@ Consistency           ████████████
 
 ## 🛠️ TOOLS
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Nmap-Network%20Scanner-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nuclei-Vulnerability%20Scanner-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-Web%20Security-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nikto-Web%20Scanner-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wapiti-Scanner-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-Terminal-black?style=for-the-badge" />
+</p>
 
+---
 
+## 🧠 TRYHACKME
 
+<p align="center">
+  <!-- Replace YOUR_THM_USERNAME with your TryHackMe username -->
+  <img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_THM_USERNAME.png" />
+</p>
 
+---
 
-\
+## 📊 GITHUB STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SherazKazmi&show_icons=true&theme=dark" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=SherazKazmi&theme=dark" />
+</p>
 
 ---
 
