@@ -5,15 +5,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=fsociety+init...;Penetration+Tester+In+Progress;Web+Security+%7C+Bug+Bounty;Trust+No+One" />
 </p>
 
+
+<p align="center">
+  <!-- Mr Robot -->
+  <img src="https://www.techspot.com/images2/news/bigimage/2024/03/2024-03-07-image-12-j_1100.webp" width="520" />
+</p>
+
 <p align="center">
   <!-- Matrix Animation -->
   <img src="https://c4.wallpaperflare.com/wallpaper/149/596/863/mr-robot-elliot-mr-robot-tv-fsociety-wallpaper-preview.jpg" width="750" />
 </p>
 
-<p align="center">
-  <!-- Mr Robot -->
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQm8f2s0o0/giphy.gif" width="520" />
-</p>
 
 <p align="center">
   <b>fsociety — We are finally awake.</b>
