@@ -44,11 +44,11 @@ class FsocietyOperator:
             self.exploit()
             self.report()
             break
-Vulnerability Assessment  ███████████░ 92%
-Network Penetration       ██████████░░ 85%
-Automated Recon           █████████░░░ 78%
-Secure Code Review        ████████░░░░ 70%
-
+--- --- ## ⚡ OPERATION STATUS
+Web Pentesting        ███████████░
+Recon & Scanning      ██████████░░
+Bug Bounty Hunting    █████████░░░
+Consistency           ████████████
 --- ## 🛠️ TOOLS <p align="left">   <img src="https://img.shields.io/badge/Nmap-blue?style=for-the-badge" />   <img src="https://img.shields.io/badge/Nuclei-red?style=for-the-badge" />   <img src="https://img.shields.io/badge/BurpSuite-orange?style=for-the-badge" />   <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge" /> </p> --- ## 🧠 TRYHACKME <p align="center">   <img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_THM_USERNAME.png" /> </p> --- ## 📊 GITHUB STATS <p align="center">   <img src="https://github-readme-stats.vercel.app/api?username=SherazKazmi&show_icons=true&theme=dark" />   <br/>   <img src="https://streak-stats.demolab.com?user=SherazKazmi&theme=dark" /> </p> --- ## 💀 ELLIOT LOGS
 People always told me growing up that it’s never about the destination.
 It’s about the journey.
