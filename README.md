@@ -7,7 +7,8 @@
 
 <p align="center">
   <!-- Matrix Animation -->
-  <img src="https://www.iamfy.co/products/mister-robot-fsociety?srsltid=AfmBOorwZYWtCWo_ZXqnFFfVTsRzTMv467vpMRyTHTLrAHe1jA-8hZbP" width="750" />
+  <img src="<img width="867" height="867" alt="image" src="https://github.com/user-attachments/assets/31b6c16e-8482-41de-9fea-34dc00981be9" />
+" width="750" />
 </p>
 
 <p align="center">
