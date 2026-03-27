@@ -1,4 +1,4 @@
-# 🎧 𝗛𝗮𝗰𝗸𝗿 | Syed Sheraz Kazmi
+# 🎧 <b>KAZMI</b> | Syed Sheraz Kazmi
 
 <p align="center">
   <!-- Typing Effect -->
