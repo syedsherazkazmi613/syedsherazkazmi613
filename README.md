@@ -7,7 +7,7 @@
 
 <p align="center">
   <!-- Matrix Animation -->
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="750" />
+  <img src="https://www.iamfy.co/products/mister-robot-fsociety?srsltid=AfmBOorwZYWtCWo_ZXqnFFfVTsRzTMv467vpMRyTHTLrAHe1jA-8hZbP" width="750" />
 </p>
 
 <p align="center">
