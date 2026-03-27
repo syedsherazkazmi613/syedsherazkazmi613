@@ -11,6 +11,15 @@
   <img src="https://www.techspot.com/images2/news/bigimage/2024/03/2024-03-07-image-12-j_1100.webp" width="520" />
 </p>
 
+## 🕶️ FSOCIETY DIRECTIVE
+
+```
+→ Control the system
+→ Understand the vulnerabilities
+→ Exploit with precision
+→ Secure what others ignore
+```
+
 <p align="center">
   <!-- Matrix Animation -->
   <img src="https://c4.wallpaperflare.com/wallpaper/149/596/863/mr-robot-elliot-mr-robot-tv-fsociety-wallpaper-preview.jpg" width="750" />
@@ -75,14 +84,6 @@ class FsocietyOperator:
 
 ---
 
-## 🕶️ FSOCIETY DIRECTIVE
-
-```
-→ Control the system
-→ Understand the vulnerabilities
-→ Exploit with precision
-→ Secure what others ignore
-```
 
 ---
 
