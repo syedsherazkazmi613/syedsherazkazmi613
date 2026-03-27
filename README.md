@@ -2,30 +2,27 @@
 
 <p align="center">
   <!-- Typing Effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Penetration+Tester+In+Progress;Web+Security+%7C+Bug+Bounty;Think+Like+Attacker+%7C+Act+Like+Defender" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=fsociety+init...;Penetration+Tester+In+Progress;Web+Security+%7C+Bug+Bounty;Trust+No+One" />
 </p>
 
 <p align="center">
   <!-- Matrix Animation -->
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="700" />
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="750" />
 </p>
 
-*“Break. Learn. Secure. Repeat.
-
 <p align="center">
-  <!-- Mr. Robot / fsociety reference -->
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQm8f2s0o0/giphy.gif" width="500" />
+  <!-- Mr Robot -->
+  <img src="https://media.giphy.com/media/3o7TKsQ8UQm8f2s0o0/giphy.gif" width="520" />
 </p>
 
 <p align="center">
   <b>fsociety — We are finally awake.</b>
-</p>”*
+</p>
 
 ---
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│                                                         │
 │   $ whoami                                              │
 │   → Sheraz Kazmi | Pentester | Pakistan                 │
 │                                                         │
@@ -35,12 +32,10 @@
 │   $ cat focus.txt                                       │
 │   → Web Security | Bug Bounty | Recon                   │
 │                                                         │
-│   $ cat mindset.txt                                     │
-│   → Learn → Exploit → Secure → Repeat                   │
+│   $ cat creed.txt                                       │
+│   → Control is an illusion.                             │
 │                                                         │
-│   [!] Always learning.                                  │
-│   [!] Always watching. 👁️                               │
-│                                                         │
+│   [!] They see code. I see vulnerabilities.             │
 └─────────────────────────────────────────────────────────┘
 ```
 
@@ -50,7 +45,7 @@
 drwxr-xr-x  reconnaissance/
 drwxr-xr-x  web-exploitation/
 drwxr-xr-x  tools/
--rwxr-xr-x  mindset.exe
+-rwxr-xr-x  fsociety.exe
 ```
 
 ---
@@ -58,32 +53,43 @@ drwxr-xr-x  tools/
 ```python
 #!/usr/bin/env python3
 
-class Pentester:
+class FsocietyOperator:
 
     def __init__(self):
         self.name = "Sheraz Kazmi"
-        self.role = "Cybersecurity Learner"
-        self.focus = ["Web Security", "Recon", "Bug Bounty"]
+        self.role = "Security Researcher"
+        self.focus = ["Web Exploitation", "Recon", "Bug Bounty"]
         self.tools = ["Nmap", "Nuclei", "Burp Suite"]
-        self.mindset = "Think like attacker. Act like defender."
+        self.mindset = "Exploit the system. Secure the future."
 
-    def daily_routine(self):
+    def mission(self):
         while True:
-            self.learn()
+            self.enumerate()
             self.scan()
-            self.find_vulns()
-            self.fix()
+            self.exploit()
+            self.report()
             break
 ```
 
 ---
 
-## ⚡ OPERATION: CYBER MASTERY
+## 🕶️ FSOCIETY DIRECTIVE
 
 ```
-Web Pentesting        ██████████░░
-Recon & Scanning      █████████░░░
-Bug Bounty Hunting    ████████░░░░
+→ Control the system
+→ Understand the vulnerabilities
+→ Exploit with precision
+→ Secure what others ignore
+```
+
+---
+
+## ⚡ OPERATION STATUS
+
+```
+Web Pentesting        ███████████░
+Recon & Scanning      ██████████░░
+Bug Bounty Hunting    █████████░░░
 Consistency           ████████████
 ```
 
@@ -92,12 +98,10 @@ Consistency           ████████████
 ## 🛠️ TOOLS
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Nmap-Network%20Scanner-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Nuclei-Vulnerability%20Scanner-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-Web%20Security-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Nikto-Web%20Scanner-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Wapiti-Scanner-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-Terminal-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nmap-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nuclei-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BurpSuite-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge" />
 </p>
 
 ---
@@ -105,7 +109,6 @@ Consistency           ████████████
 ## 🧠 TRYHACKME
 
 <p align="center">
-  <!-- Replace YOUR_THM_USERNAME with your TryHackMe username -->
   <img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_THM_USERNAME.png" />
 </p>
 
@@ -121,33 +124,22 @@ Consistency           ████████████
 
 ---
 
+## 💀 ELLIOT LOGS
+
+```
+People always told me growing up that it’s never about the destination.
+It’s about the journey.
+But what if the journey is the destination?
+```
+
+---
+
 ## 📂 CURRENT MISSION
 
 * 🔍 Web Vulnerability Scanning
 * 🧪 DVWA Practice Labs
 * 📊 Writing Security Reports
 * ⚙️ Learning Automation (Python)
-
----
-
-## 🕶️ FSOCIETY DIRECTIVE
-
-```
-→ Control the system
-→ Understand the vulnerabilities
-→ Exploit with precision
-→ Secure what others ignore
-```
-
----
-
-## 🎯 OBJECTIVE
-
-```
-→ Become a Professional Penetration Tester
-→ Master Web Exploitation
-→ Enter Bug Bounty Programs
-```
 
 ---
 
@@ -160,4 +152,4 @@ LinkedIn : your-linkedin
 
 ---
 
-*“The quieter you become, the more you are able to hear.”* 🐈‍⬛
+> “We’re fsociety. We exist without permission.” 🐈‍⬛
