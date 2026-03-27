@@ -10,7 +10,16 @@
   <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="700" />
 </p>
 
-*“Break. Learn. Secure. Repeat.”*
+*“Break. Learn. Secure. Repeat.
+
+<p align="center">
+  <!-- Mr. Robot / fsociety reference -->
+  <img src="https://media.giphy.com/media/3o7TKsQ8UQm8f2s0o0/giphy.gif" width="500" />
+</p>
+
+<p align="center">
+  <b>fsociety — We are finally awake.</b>
+</p>”*
 
 ---
 
@@ -118,6 +127,17 @@ Consistency           ████████████
 * 🧪 DVWA Practice Labs
 * 📊 Writing Security Reports
 * ⚙️ Learning Automation (Python)
+
+---
+
+## 🕶️ FSOCIETY DIRECTIVE
+
+```
+→ Control the system
+→ Understand the vulnerabilities
+→ Exploit with precision
+→ Secure what others ignore
+```
 
 ---
 
