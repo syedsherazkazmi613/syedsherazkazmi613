@@ -7,8 +7,7 @@
 
 <p align="center">
   <!-- Matrix Animation -->
-  <img src="<img width="867" height="867" alt="image" src="https://github.com/user-attachments/assets/31b6c16e-8482-41de-9fea-34dc00981be9" />
-" width="750" />
+  <img src="https://c4.wallpaperflare.com/wallpaper/149/596/863/mr-robot-elliot-mr-robot-tv-fsociety-wallpaper-preview.jpg" width="750" />
 </p>
 
 <p align="center">
